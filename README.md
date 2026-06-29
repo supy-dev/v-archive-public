@@ -3,9 +3,13 @@
 VTuberや配信者の視聴者が「推し・動画・メモ」を自分専用に管理するための個人用Webアプリ。
 Laravel モノリス + Blade + Alpine.js + Tailwind CSS で構築し、認証は Supabase Auth（Google）を使用。※メールアドレスは後日対応予定
 
+V-Archive is a web service for organizing YouTube archives from streamers, VTubers, and other creators. 
+Users can save videos to a watch list, track viewing progress, and keep personal timestamp notes or impressions.
+This repository is published for personal learning purposes and as part of a blog series documenting the development process.
+
 > **このリポジトリについて**
 > 実際に稼働しているサービスのソースコードです。学習目的でコードを公開しています。
-> 開発の過程はブログにまとめています → **[開発ブログ（URL後日追加）](#)**
+> 開発の過程はブログにまとめています → **[開発ブログ](https://note.com/supy_devlog)**
 
 ---
 
